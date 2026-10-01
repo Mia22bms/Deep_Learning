@@ -1,0 +1,13 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+test.ipynb - Colab_files/
+test.ipynb - Colab.html
+Labs/lab02/lab-2-breast-cancer/
+.DS_Store
+Thumbs.db
+desktop.ini
+**/.git_tmp/
